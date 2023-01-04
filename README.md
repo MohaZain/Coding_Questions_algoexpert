@@ -18,3 +18,5 @@ Difficulty assigned based on Algoexpert:
 | [Smallest Difference](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/smallest_difference.py) | pair numbers from two array where there absolute difference closest to zero | ``Input arrOne[-1, 5, 10, 20, 28, 3] arrTwo[26, 134, 135, 15, 17] Output[28,26]`` | 🔵 | ``Array`` |
 | [Sorted Squared Array](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/sorted_squared_array.py) | Square numbers in array | ``Input [1,2,3] Output [1,4,9]`` | 🟢 | ``Array`` |
 
+| [First Duplicate Value](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/first_duplicate_value.py) | Return first duplicated value in array | ``Input = [1, 2, 5, 3, 4, 3, 2] Output = 3 `` | 🔵 | ``Array`` |
+
