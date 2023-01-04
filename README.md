@@ -9,7 +9,7 @@ Difficulty assigned based on Algoexpert:
 🔴 ``Hard``
 ⚫ ``Very Hard``
 
-| Question | Difficulty  | Category |
-| ------------- | ------------- | ------------- |
-| [Two Number Sum](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/two_number_sum.py) | 🟢  | ``Array`` |
+| Question | Description  | Difficulty  | Category |
+| ------------- | ------------- | ------------- | ------------- |
+| [Two Number Sum](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/two_number_sum.py) | Return two number sum up to target integer | 🟢  | ``Array`` |
  
