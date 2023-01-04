@@ -11,5 +11,5 @@ Difficulty assigned based on Algoexpert:
 
 | Question | Description  | Difficulty  | Category |
 | ------------- | ------------- | ------------- | ------------- |
-| [Two Number Sum](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/two-number-sum.py.py) | hello | 🟢  | ``Array`` |
+| [Two Number Sum](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/two_number_sum.py.py) | hello | 🟢  | ``Array`` |
  
