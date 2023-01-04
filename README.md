@@ -9,7 +9,7 @@ Difficulty assigned based on Algoexpert:
 🔴 ``Hard``
 ⚫ ``Very Hard``
 
-generate_document
+
 
 | Question | Description  | Example  | Difficulty  | Category |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -21,3 +21,4 @@ generate_document
 | [Two Number Sum](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/two_number_sum.py) | Return two number sum up to target integer | ``Input Arr = [3,-1,4,11] TargetSum = 10 Output = [-1,11]`` | 🟢 | ``Array`` |
 | [Smallest Difference](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/smallest_difference.py) | pair numbers from two array where there absolute difference closest to zero | ``Input arrOne[-1, 5, 10, 20, 28, 3] arrTwo[26, 134, 135, 15, 17] Output[28,26]`` | 🔵 | ``Array`` |
 | [Sorted Squared Array](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/sorted_squared_array.py) | Square numbers in array | ``Input [1,2,3] Output [1,4,9]`` | 🟢 | ``Array`` |
+| [First Non Repeating Character](https://github.com/MohaZain/Coding_Questions_algoexpert/blob/main/non_repeating_character.py) | First Non Repeating Character | ``Input = 'abcdca' Output b `` | 🟢 | ``String`` |
